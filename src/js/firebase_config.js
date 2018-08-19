@@ -1,5 +1,3 @@
-import firebase from "firebase";
-
 const config = {
   apiKey: "AIzaSyBKijaQUMWbi6S6aS46nInSmTdnCNapth0",
   authDomain: "authenticate-practice.firebaseapp.com",
